@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP SNACKS 3</title>
+    <title>PHP SNACKS 4</title>
 </head>
 <body>
     <section>
-        <h1>Php Snack 3</h1>
+        <h1>Php Snack 4</h1>
         <?php 
             $array = [];
             while (count($array) < 15) { 
